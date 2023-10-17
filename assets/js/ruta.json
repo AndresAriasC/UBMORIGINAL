@@ -1,0 +1,35 @@
+{
+    "request": {
+      "origin": {
+        "lat": 12.136389,
+        "lng": -86.251389
+      },
+      "destination": {
+        "lat": 12.136389,
+        "lng": -86.251389
+      },
+      "travelMode": "DRIVING",
+      "waypoints": [
+        {
+          "location": {
+            "lat": 12.14,
+            "lng": -86.25
+          },
+          "stopover": true
+        },
+        {
+          "location": {
+            "lat": 12.15,
+            "lng": -86.24
+          },
+          "stopover": true
+        }
+      ]
+    },
+    "status": "OK",
+    "routes": [
+      {
+        
+      }
+    ]
+  }
